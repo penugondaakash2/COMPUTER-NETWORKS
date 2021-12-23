@@ -1,2 +1,2 @@
 # Computer-Networks
-This repository consists of Computer Network Project and their necessary files
+This repository consists of a Project called District Suraksha
